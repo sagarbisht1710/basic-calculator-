@@ -1,4 +1,7 @@
 # basic-calculator-
+
+This project is conducted as part of an internship program provided by Unified Mentor. 
+
 ## Overview
 This is a simple calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It's implemented using Python and is a great project for beginners to get started with programming.
 
@@ -17,3 +20,6 @@ This is a simple calculator application that performs basic arithmetic operation
     ```bash
     cd basic-calculator
     ```
+## Special Thanks
+
+I would like to extend my heartfelt thanks to Unified Mentor for providing the opportunity and support for this internship project.
