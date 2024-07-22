@@ -14,7 +14,7 @@ This is a simple calculator application that performs basic arithmetic operation
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/basic-calculator.git
+    git clone https://github.com/sagarbisht1710/basic-calculator-
     ```
 2. Navigate to the project directory:
     ```bash
